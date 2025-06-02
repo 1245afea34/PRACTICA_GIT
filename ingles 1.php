@@ -12,6 +12,12 @@ include ('layout/parte1.php')
 </head>
 <body>
 
+
+
+
+
+
+
     <div class="contenido">
         <div class="titulo-contenedor">
             <h1 class="titulo-grado">Ingles 1</h1>
